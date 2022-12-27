@@ -1,0 +1,34 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+HTTP/1.1 200 OK
+Server: Cowboy
+Connection: keep-alive
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 143
+Etag: W/"8f-CCI08n8xmvl50IsLtLzj/O6D3TU"
+Date: Tue, 27 Dec 2022 19:52:17 GMT
+Via: 1.1 vegur
+
+{
+    "firstname": "Eric",
+    "lastname": "Ericsson",
+    "totalprice": 636,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2016-02-25",
+        "checkout": "2022-03-24"
+    }
+}
+PASSED: restAssuredGet
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+
