@@ -1,0 +1,5 @@
+Code to develop application
+-->src/main - Build
+
+Code to test application
+-->src/test
