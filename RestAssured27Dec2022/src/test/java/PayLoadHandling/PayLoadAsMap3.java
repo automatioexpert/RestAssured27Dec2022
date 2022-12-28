@@ -30,6 +30,7 @@ public class PayLoadAsMap3 {
 		allEmps.add(address2);
 		System.out.println(allEmps);
 		
+		//O/P:
 		//[{street=wall street, city=blr, state=NY}, 
 		//{street=wall street, city=blr, state=NY}]		
 				
