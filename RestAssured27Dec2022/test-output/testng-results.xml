@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-28T01:56:08 IST" name="Default suite" finished-at="2022-12-28T01:56:12 IST" duration-ms="3952">
+  <suite started-at="2022-12-28T15:18:26 IST" name="Default suite" finished-at="2022-12-28T15:18:26 IST" duration-ms="160">
     <groups>
     </groups>
-    <test started-at="2022-12-28T01:56:08 IST" name="Default test" finished-at="2022-12-28T01:56:12 IST" duration-ms="3952">
-      <class name="RestAssuredBasics.GetRequest5">
-        <test-method signature="restAssuredGet()[pri:0, instance:RestAssuredBasics.GetRequest5@865dd6]" started-at="2022-12-28T01:56:08 IST" name="restAssuredGet" finished-at="2022-12-28T01:56:12 IST" duration-ms="3917" status="PASS">
+    <test started-at="2022-12-28T15:18:26 IST" name="Default test" finished-at="2022-12-28T15:18:26 IST" duration-ms="160">
+      <class name="PayLoadHandling.PayLoadAsMap3">
+        <test-method signature="mapLoad()[pri:0, instance:PayLoadHandling.PayLoadAsMap3@2abf4075]" started-at="2022-12-28T15:18:26 IST" name="mapLoad" finished-at="2022-12-28T15:18:26 IST" duration-ms="27" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- restAssuredGet -->
-      </class> <!-- RestAssuredBasics.GetRequest5 -->
+        </test-method> <!-- mapLoad -->
+      </class> <!-- PayLoadHandling.PayLoadAsMap3 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
